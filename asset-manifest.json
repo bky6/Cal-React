@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bky6/Cal-React/static/css/main.073c9b0a.css",
-    "main.js": "/bky6/Cal-React/static/js/main.43885bae.js",
-    "static/js/787.3bbe8c73.chunk.js": "/bky6/Cal-React/static/js/787.3bbe8c73.chunk.js",
-    "index.html": "/bky6/Cal-React/index.html",
-    "main.073c9b0a.css.map": "/bky6/Cal-React/static/css/main.073c9b0a.css.map",
-    "main.43885bae.js.map": "/bky6/Cal-React/static/js/main.43885bae.js.map",
-    "787.3bbe8c73.chunk.js.map": "/bky6/Cal-React/static/js/787.3bbe8c73.chunk.js.map"
+    "main.css": "/bky6/Cal-React.git/static/css/main.073c9b0a.css",
+    "main.js": "/bky6/Cal-React.git/static/js/main.09cf186f.js",
+    "static/js/787.3bbe8c73.chunk.js": "/bky6/Cal-React.git/static/js/787.3bbe8c73.chunk.js",
+    "index.html": "/bky6/Cal-React.git/index.html",
+    "main.073c9b0a.css.map": "/bky6/Cal-React.git/static/css/main.073c9b0a.css.map",
+    "main.09cf186f.js.map": "/bky6/Cal-React.git/static/js/main.09cf186f.js.map",
+    "787.3bbe8c73.chunk.js.map": "/bky6/Cal-React.git/static/js/787.3bbe8c73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.43885bae.js"
+    "static/js/main.09cf186f.js"
   ]
 }
